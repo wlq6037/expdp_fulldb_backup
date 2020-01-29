@@ -1,17 +1,15 @@
 # expdp_fulldb_backup
 oracle datapump backup script
-# PLATFORM:     Linux/centos7
-#
-# REQUIREMENTS: Oracle database 11g
-#               expdp commnad is required
-#               It run under oracle user (Oracle database owner)
-#
-#
-# PURPOSE: The script is backup Oracle database fully by expdp
-#               DB information from configure file(default: oradb.conf)
-#oracle datapump backup script
-#create by: wlq6037@163.com
-#bug fix contact: wlq6037@163.com
+PLATFORM:     Linux/centos7
+REQUIREMENTS: Oracle database 11g
+               expdp commnad is required
+               It run under oracle user (Oracle database owner)
+PURPOSE: The script is backup Oracle database fully by expdp
+               DB information from configure file(default: oradb.conf)
+               
+###oracle datapump backup script
+###create by: wlq6037@163.com
+###bug fix contact: wlq6037@163.com
 
 Prerequisites
 1.install sshpass package

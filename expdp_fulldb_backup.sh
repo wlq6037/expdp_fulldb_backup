@@ -28,8 +28,8 @@ function logo_banner(){
     then
         echo "####################################################" >> ${LOG_PATH}/${LOG_RECORD}
         echo "#       Oracle Datapump Backup Script Setup        #" >> ${LOG_PATH}/${LOG_RECORD}
-        echo "#          Auther:wangliqiang@gmail.com            #" >> ${LOG_PATH}/${LOG_RECORD}
-        echo "#        Contact: wangliqiang@deewinfl.com         #" >> ${LOG_PATH}/${LOG_RECORD}
+        echo "#          Auther:wlq6037@gmail.com                #" >> ${LOG_PATH}/${LOG_RECORD}
+        echo "#        Contact: wlq6037@gmail.com                #" >> ${LOG_PATH}/${LOG_RECORD}
         echo "####################################################" >> ${LOG_PATH}/${LOG_RECORD}
         echo ""                                                     >> ${LOG_PATH}/${LOG_RECORD}
     fi
